@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ElytraZone">
+    <output-path>$USER_HOME$/Desktop/Privates Servernetzwerk/TestServer - 1.16.2/plugins</output-path>
+    <root id="archive" name="ElytraZone.jar">
+      <element id="module-output" name="CraftAttack - Elytra" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
